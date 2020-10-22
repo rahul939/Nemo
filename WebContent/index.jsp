@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi first jsp file
+Hi first jsp file for git
 </body>
 </html>
